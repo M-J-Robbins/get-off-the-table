@@ -17,3 +17,6 @@ I'm trying to create an email template using a number of common style components
 * Additional container outside of the main container
 
 The main issue here is that Outlook doesn't render HTML or CSS correctly as they user Microsoft Word as a rendering engine.  However I believe we can manipulate Outlook into working with a `<div>` based layout using `mos-` code.
+
+
+**Realy example** Litmus sent out [their monthly newsletter](http://pages.litmus.com/webmail/31032/472083994/fce3a6f35bd9f5aaff3745a3cb048216) using this technique.
